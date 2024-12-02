@@ -2,8 +2,8 @@
 Contributors: rbplugins
 Tags: image widget, gallery widget, image, sidebar, widget
 Requires at least: 3.1
-Tested up to: 6.2
-Stable tag: 1.0.10
+Tested up to: 6.7
+Stable tag: 1.0.11
 License: GPLv2 or later
 
 Image Widget - most simple and fast way to create image widget to your sidebar
@@ -48,6 +48,9 @@ When you open WordPress widgets section on the left side with the list of the wi
 When you open WordPress widgets section on the left side with the list of the widgets yo ucan find image widget. Just drag and drop widget. When you click on widget you'll see additional options. When you open image widget settings you can switch between columns amount of the gallery widget grid.
 
 == Changelog ==
+
+= 1.0.11 =
+* Image widget tested with Wordpress 6.7
 
 = 1.0.10 =
 * Image widget tested with Wordpress 6.2
